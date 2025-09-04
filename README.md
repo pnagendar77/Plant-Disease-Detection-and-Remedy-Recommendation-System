@@ -16,6 +16,7 @@ Deep Learning: PyTorch, TorchVision (ResNet50)
 LLM Integration: LangChain, ChatGroq (DeepSeek R1 / LLaMA-3.3-70B)
 Web App: Streamlit
 Dataset: PlantDoc Dataset
+
 Others: Pillow, JSON, Torch Hub
 
 Plant-Disease-Detection-Remedy/
