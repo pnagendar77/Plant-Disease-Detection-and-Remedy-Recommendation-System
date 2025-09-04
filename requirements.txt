@@ -1,0 +1,17 @@
+
+# Core ML & DL
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Streamlit Web App
+streamlit>=1.30.0
+Pillow
+
+# LangChain + Groq LLM
+langchain
+langchain-groq
+
