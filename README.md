@@ -28,6 +28,7 @@ Dataset: PlantDoc Dataset
 Others: Pillow, JSON, Torch Hub
 
 Plant-Disease-Detection-Remedy/
+
 │── Train.py                # Train ResNet50 on PlantDoc dataset
 
 │── predict.py              # Predict disease & get remedy using LLM
