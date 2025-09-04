@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-and-Remedy-Recommendation-System
